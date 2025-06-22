@@ -2,11 +2,11 @@
 Repositorio con proyecto de Sistema de Tickets, hecho con Python.
 
 ## Consideraciones
-| Opción | Detalle |
-|-----:|-----------|
-|     1| Alta ticket |
-|     2| Leer ticket |
-|     3| Salir del programa |
+| Opción | Acción | Descripción |
+|-----:|-----------|-------------|
+|     1| Alta ticket | El usuario ingresa Nombre, Sector, Asunto y Mensaje. Se genera número de ticket entre 1000 y 9999. Se imprime detalle por pantalla y se guarda en archivo JSON. Se pregunta si quiere ingresar uno nuevo o no.|
+|     2| Leer ticket | El usuario ingresa número de ticket. Si existe imprime detalle por pantalla, sino se avisa que no existe tal ticket. Se pregunta si quiere leer otro ticket o no.|
+|     3| Salir del programa | Se pregunta si quiere seguir en el programa si o no. El usuario sale del programa.|
 
 ## Datos del creador
 Nombre: Nicolás González / Grupo X / mail: nicolas.gonzalez15@gmail.com
