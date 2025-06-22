@@ -1,0 +1,25 @@
+{
+    "tickets": [
+        {
+            "nombre": "Nino",
+            "sector": "Sistemas",
+            "asunto": "PC Rota",
+            "mensaje": "BLABLBLB",
+            "nroTicket": 5263
+        },
+        {
+            "nombre": "rOSE",
+            "sector": "DADAD",
+            "asunto": "ASDASD",
+            "mensaje": "ASAD",
+            "nroTicket": 1100
+        },
+        {
+            "nombre": "Jony",
+            "sector": "Blanco",
+            "asunto": "Mouse roto",
+            "mensaje": "asdasd",
+            "nroTicket": 1019
+        }
+    ]
+}
