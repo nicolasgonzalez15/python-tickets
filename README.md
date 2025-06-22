@@ -2,7 +2,11 @@
 Repositorio con proyecto de Sistema de Tickets, hecho con Python.
 
 ## Consideraciones
-#Si el mail se encuentra registrado, no permite su carga en el módulo de alta.
+| Opción | Detalle |
+|-----:|-----------|
+|     1| Alta ticket |
+|     2| Leer ticket |
+|     3| Salir del programa |
 
 ## Datos del creador
-Nombre: Nicolás González / Grupo 4 / mail: nicolas.gonzalez15@gmail.com
+Nombre: Nicolás González / Grupo X / mail: nicolas.gonzalez15@gmail.com
