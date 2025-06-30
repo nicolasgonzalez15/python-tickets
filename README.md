@@ -17,7 +17,7 @@ Si el usuario ingresa datos inválidos, fuera del rango, se avisa por pantalla y
 Repositorio con proyecto de juego de TATETI, hecho con Python.
 
 ## Consideraciones
-A confirmar 
+El juego comienza usando la X. 
 
 ## Detalles
 Juego de dos usuarios. Termina si alguno ganó o no hay más movimientos.
